@@ -39,5 +39,5 @@ Azure Synapse Analytics
 Microsoft Power BI
 
 # Credits
-Olympic data source: Kaggle
+Olympic data source: Kaggle--- https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
 
